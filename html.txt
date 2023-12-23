@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Countdown zum 18. Geburtstag</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="slideshow-container">
+    <div class="mySlides fade">
+      <img src="IMG_2302.jpg." alt="Bild 1" style="width:100%">
+    </div>
+    <div class="mySlides fade">
+      <img src="IMG_4063.jpg" alt="Bild 2" style="width:100%">
+    </div>
+    <!-- Weitere Bilder hier einfügen -->
+
+    <div class="countdown-container">
+      <h1>Countdown bis zum 18. Geburtstag</h1>
+      <p id="countdown"></p>
+    </div>
+  </div>
+  
+  <script src="scripts.js"></script>
+</body>
+</html>
