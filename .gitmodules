@@ -1,0 +1,3 @@
+[submodule "bday.test"]
+	path = bday.test
+	url = ssh://git@github.com/elfriedenfroh/bday.test
